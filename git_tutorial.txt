@@ -6,6 +6,8 @@ This Is Test For Push!!!!!
 
 Is This Commit related with Issue??
 
+close issue #1
+
 Hello World!!
 
 Change File!!
